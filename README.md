@@ -5,18 +5,34 @@
 [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
 
 
-## PascalCase
+## 1: PascalCase
 **PascalCase**, birden çok kelimeden oluşan adların birleştirilirken her kelimenin baş harfinin büyük yazıldığı bir yazım stilidir.
 Örneğin; MyClassName, CalculateTotal
 
-## Yorumlar
+## 2: Yorumlar
 Java'da yorumlar, kodun herhangi bir kısmı için açıklama yazmak veya kodun çalışmasını engellemeden notlar almak için kullanılır. Java'da **üç çeşit yorum** bulunmaktadır:
-### 1. Tek Satırlık Yorumlar 
+### a. Tek Satırlık Yorumlar 
 Bu yorum türü, yalnızca bir satır üzerinde yorum yazmak için kullanılır. `//` ile başlayan bir yorum, satırın sonuna kadar devam eder ve derleyici tarafından dikkate alınmaz
-### 2. Çok Satırlı Yorumlar
+### b. Çok Satırlı Yorumlar
 Birden fazla satırda yorum yapmak gerektiğinde kullanılır. Çok satırlı yorumlar `/*` ile başlar ve `*/` ile biter. Aradaki tüm metinler yorum olarak kabul edilir.
-### 3. Belgelendirme Yorumları 
+### c. Belgelendirme Yorumları 
 Bu yorum türü, **JavaDoc** belgeleri oluşturmak için kullanılır. `/**` ile başlar ve `*/` ile biter. Bu tür yorumlar, sınıfları, metotları veya değişkenleri açıklamak için kullanılır ve genellikle Java'nın belge üretme aracı olan `javadoc` ile kullanılarak API dokümantasyonu oluşturulur.
+
+## 3: Veri Türleri (Data Types)
+Java'da veri türleri (**data types**) iki ana kategoriye ayrılır: **ilkel (primitive) veri tipleri** ve **referans (reference) veri tipleri**. Bu veri tipleriyle değişkenlerin türlerini tanımlar ve bellek kullanımı ile işlemleri optimize ederiz.
+
+## 4: Variables (Değişkenler)
+**Değişken**, **bir değeri bellekte saklayan bir isimlendirmedir**.
+Değişkenler, veri tutmak için kullanılır ve bir **veri türü ile tanımlanır**. Yani her değişken **bir veri türüne bağlıdır.** (Statik olarak tür atanır.)
+
+(veri_türü) (değişken_adi) = değer;
+- veri_türü: Değişkenin hangi türde veri tutacağını belirtir.
+- değişken_adı: Değişken adı, veriyi saklayacağınız isimdir.
+- değer: Değişkene atanan değerdir.
+
+
+Veri türü ve değişken, farklı sorumluluklar taşır ancak birlikte kullanılarak programın temel taşlarını oluştururlar.
+
 
 
 
