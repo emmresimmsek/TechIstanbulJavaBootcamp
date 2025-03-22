@@ -1,10 +1,10 @@
 package com.emresimsek.dersler;
 
-public class _02_DataTypes {
+public class _02_PrimitiveDataTypes {
     public static void main(String[] args) {
 
         // Veri türü, bir değişkenin hangi türde bir veriyi saklayabileceğini belirleyen bir özelliktir.
-
+        // Değişkenler bir veri tipi ile tanımlanır.
         // 1- Primitive (İlkel) Veri Tipleri
         // Primitive (ilkel) veri tipleri null olamaz çünkü doğrudan bir değer tutarlar.
         byte b = 127;

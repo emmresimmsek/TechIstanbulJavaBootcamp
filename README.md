@@ -7,6 +7,8 @@
 
 ## 1: PascalCase
 **PascalCase**, birden çok kelimeden oluşan adların birleştirilirken her kelimenin baş harfinin büyük yazıldığı bir yazım stilidir.
+Java'da sınıflar bu şekilde adlandırılır. 
+
 Örneğin; MyClassName, CalculateTotal
 
 ## 2: Yorumlar
@@ -23,7 +25,9 @@ Java'da veri türleri (**data types**) iki ana kategoriye ayrılır: **ilkel (pr
 
 ## 4: Variables (Değişkenler)
 **Değişken**, **bir değeri bellekte saklayan bir isimlendirmedir**.
-Değişkenler, veri tutmak için kullanılır ve bir **veri türü ile tanımlanır**. Yani her değişken **bir veri türüne bağlıdır.** (Statik olarak tür atanır.)
+Değişkenler, veri tutmak için kullanılır ve bir **veri türü ile tanımlanır**. Yani her değişken **bir veri türüne bağlıdır.**
+Veri tipi, değişkenin saklayabileceği verinin türünü belirler ve bellekte o veri için rezerv edilen alanın büyüklüğünü tanımlar.
+
 
 (veri_türü) (değişken_adi) = değer;
 - veri_türü: Değişkenin hangi türde veri tutacağını belirtir.
@@ -32,6 +36,13 @@ Değişkenler, veri tutmak için kullanılır ve bir **veri türü ile tanımlan
 
 
 Veri türü ve değişken, farklı sorumluluklar taşır ancak birlikte kullanılarak programın temel taşlarını oluştururlar.
+
+## 5: Operators (Operatörler)
+### a. Aritmetic Operators 
+Java'da aritmetik operatörler, matematiksel işlemler yapmak için kullanılır. Bunlar, toplama (+), çıkarma (-), çarpma (*), bölme (/) ve modül (%) gibi işlemleri içerir.
+Bu operatörlere ilave olarak (++) ve (--) operatörleri bulunur.
+
+
 
 
 
