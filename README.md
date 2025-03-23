@@ -41,6 +41,21 @@ Veri türü ve değişken, farklı sorumluluklar taşır ancak birlikte kullanı
 ### a. Aritmetic Operators 
 Java'da aritmetik operatörler, matematiksel işlemler yapmak için kullanılır. Bunlar, toplama (+), çıkarma (-), çarpma (*), bölme (/) ve modül (%) gibi işlemleri içerir.
 Bu operatörlere ilave olarak (++) ve (--) operatörleri bulunur.
+### b. Assignment Operators
+Java'da **atama operatörleri** bir değişkene değer veya başka bir ifadeden oluşan bir sonuç atamak için kullanılır. En temel **atama operatörü** **`=`** operatörüdür
+### c. Comparison Operators
+Java'da **karşılaştırma operatörleri**, iki değer arasında karşılaştırma yapmak için kullanılır. Bu operatörler genellikle **koşullu ifadelerde** (if-else gibi) ya da döngülerde kullanılır. Bu karşılaştırmaların sonucu ya **`true`** ya da **`false`** (boolean veri tipi) olur.
+==, != , > , < , >= , <= operatörleri karşılaştırma operatörleridir.
+### d. Logical Operators
+Mantıksal operatörler, birden fazla koşulun veya ifadelerin bir arada değerlendirilmesine olanak sağlar. Java'da **mantıksal operatörler** genelde **koşul ifadelerinde** (if-else) kullanılır ve sonucu genelde bir **`boolean`** değer (**true** ya da **false**) olur.
+AND Operatörü (`&&`) , OR Operatörü (`||`), NOT Operatörü (`!`)
+
+## 6: Java'da Math Kütüphenesi
+Java'da **`Math`** sınıfı, matematiksel işlemleri gerçekleştirmek için kullanılabilecek hazır yöntemler (methods) ve sabitler (constants) içerir. Bu sınıf, `java.lang` paketinde yer aldığı için varsayılan olarak tüm projelere dahildir ve ayrıca bir import işlemi yapmaya gerek yoktur.
+`Math` sınıfı içerisindeki tüm yöntemler **static** olduğu için, bu yöntemleri doğrudan çağırabiliriz
+
+
+
 
 
 
