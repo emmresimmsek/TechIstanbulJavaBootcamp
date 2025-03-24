@@ -1,7 +1,7 @@
  # Java ile Yazılım Geliştirme Bootcamp Programı 
  *İstanbul Büyükşehir Belediyesi* - *Eğitmen: Hamit Mızrak* - *2025*
 
-[Github](https://github.com/emmresimmsek/TechIstanbulJavaBootcamp.git)
+[Github](https://github.com/emmresimmsek/TechIstanbulJavaBootcamp.git) - 
 [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
 
 
@@ -55,6 +55,13 @@ Java'da **`Math`** sınıfı, matematiksel işlemleri gerçekleştirmek için ku
 `Math` sınıfı içerisindeki tüm yöntemler **static** olduğu için, bu yöntemleri doğrudan çağırabiliriz
 ## 7: Java'da Yaygın Kullanılan Escape Karakterleri
 Java'da escape (kaçış) karakterleri, özel karakterleri string içinde göstermek veya özel işlevlere sahip karakterleri kullanmak için kullanılır. Escape karakterleri, ters eğik çizgi \ (backslash) ile başlar.
+## 8: Scanner Sınıfı
+Java'da Scanner sınıfı, kullanıcıdan giriş almak için kullanılan bir sınıftır. Bu sınıf, genellikle konsol uygulamalarında, kullanıcıdan veri talep etme ve alınan veriyi işleme amacıyla kullanılır
+java.util.Scanner paketinde bulunur ve klavyeden, dosyalardan veya diğer veri kaynaklarından giriş almak için kullanılır.
+Bu sınıfı kullanmak için import işlemi gereklidir. Aksi takdirde hata alınır.
+## 9: Wrapper Class
+**Wrapper Class (Sarmalayıcı Sınıf)**, Java'da **ilkel veri tiplerini (primitive types)**, **nesneler (objects)** haline getiren sınıflardır. Java'nın nesne yönelimli olması nedeniyle bazı durumlarda, ilkel veri tiplerini bir nesne olarak kullanmanız gerekebilir. Bu tür durumlar için Java, her bir ilkel veri tipi için karşılık gelen bir **Wrapper Class** sağlamıştır.
+
 
 
 
