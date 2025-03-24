@@ -53,7 +53,7 @@ AND Operatörü (`&&`) , OR Operatörü (`||`), NOT Operatörü (`!`)
 ## 6: Java'da Math Kütüphenesi
 Java'da **`Math`** sınıfı, matematiksel işlemleri gerçekleştirmek için kullanılabilecek hazır yöntemler (methods) ve sabitler (constants) içerir. Bu sınıf, `java.lang` paketinde yer aldığı için varsayılan olarak tüm projelere dahildir ve ayrıca bir import işlemi yapmaya gerek yoktur.
 `Math` sınıfı içerisindeki tüm yöntemler **static** olduğu için, bu yöntemleri doğrudan çağırabiliriz
-
+## 7: Java'da Math Kütüphenesi
 
 
 
