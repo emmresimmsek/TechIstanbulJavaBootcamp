@@ -50,11 +50,11 @@ Java'da **karşılaştırma operatörleri**, iki değer arasında karşılaştı
 Mantıksal operatörler, birden fazla koşulun veya ifadelerin bir arada değerlendirilmesine olanak sağlar. Java'da **mantıksal operatörler** genelde **koşul ifadelerinde** (if-else) kullanılır ve sonucu genelde bir **`boolean`** değer (**true** ya da **false**) olur.
 AND Operatörü (`&&`) , OR Operatörü (`||`), NOT Operatörü (`!`)
 
-## 6: Java'da Math Kütüphenesi
+## 6: Java'da Math Kütüphanesi
 Java'da **`Math`** sınıfı, matematiksel işlemleri gerçekleştirmek için kullanılabilecek hazır yöntemler (methods) ve sabitler (constants) içerir. Bu sınıf, `java.lang` paketinde yer aldığı için varsayılan olarak tüm projelere dahildir ve ayrıca bir import işlemi yapmaya gerek yoktur.
 `Math` sınıfı içerisindeki tüm yöntemler **static** olduğu için, bu yöntemleri doğrudan çağırabiliriz
-## 7: Java'da Math Kütüphenesi
-
+## 7: Java'da Yaygın Kullanılan Escape Karakterleri
+Java'da escape (kaçış) karakterleri, özel karakterleri string içinde göstermek veya özel işlevlere sahip karakterleri kullanmak için kullanılır. Escape karakterleri, ters eğik çizgi \ (backslash) ile başlar.
 
 
 
